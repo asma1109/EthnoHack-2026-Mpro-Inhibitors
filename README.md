@@ -34,8 +34,9 @@ covid-19 is a potential viral disease that spreads rapidly so new antiviral comp
  **Core Code Snippets**
 The complete code pipeline is available in the `EthnoHack_ML_Pipeline.ipynb` Jupyter Notebook.
 
-```python
+
 1. **Generating Morgan Fingerprints**
+```python
 from rdkit import Chem
 from rdkit.Chem import AllChem
 import numpy as np
