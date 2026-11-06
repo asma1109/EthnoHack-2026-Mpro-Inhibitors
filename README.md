@@ -89,6 +89,7 @@ ethno_sample_400.json: The raw USDA Dr. Duke's dataset.
 docking summary.xlsx: A table of ML probabilities and Docking scores.
 
 results_*.zip: Raw output files from SwissDock for all 10 docked compounds.
+
 *6LU7 (PDB)*: Mpro crystal structure as target of our project
 
 **Limitations**
